@@ -1,0 +1,20 @@
+name: "KML-website"
+navbar:
+  title: "Kenneth Lee"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Research"
+      href: research.html
+    - text: "Talks"
+      href: talks.html
+  right:
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/kenneth-lee-50a583113/
+    - icon: fa-github fa-lg
+      href: https://github.com/StatsKen/
+output:
+  html_document:
+    theme: simplex

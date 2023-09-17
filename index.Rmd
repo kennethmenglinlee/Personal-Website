@@ -1,0 +1,13 @@
+---
+title: ""
+output: html_document
+---
+
+<p style="text-align:center;"><img src="files/photos/Photo.jpg" style="width:50%"></p>
+
+I'm a Biostatistics PhD candidate at Duke-NUS Medical School in Singapore.
+
+I’m currently working on evaluating time-varying intervention effects in Cluster Randomized Trials, fixed effects models for the analysis of Stepped-Wedge Cluster Randomized Trials, and developing methods to control for bias in Self-Controlled Case Series.
+
+<hr>
+Outside of work, I love boxing, training jiu-jitsu, documenting the <a href="https://www.instagram.com/thenandnow.sg/">history of Singapore</a>, and drawing. During the pandemic, my drawings of my favorite fighters were published online in an <a href="https://www.onefc.com/th/news/%e0%b8%a8%e0%b8%b4%e0%b8%a5%e0%b8%9b%e0%b8%b4%e0%b8%99%e0%b8%a7%e0%b8%b2%e0%b8%94%e0%b8%a0%e0%b8%b2%e0%b8%9e%e0%b8%aa%e0%b8%a1%e0%b8%b1%e0%b8%84%e0%b8%a3%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%99%e0%b8%8a/">interview</a> with ONE FC!

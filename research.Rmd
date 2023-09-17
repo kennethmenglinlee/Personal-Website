@@ -1,0 +1,21 @@
+---
+title: ""
+output: html_document
+---
+
+## Publications:
+1. Lee, K. M., Ma, X., Yang, G. M., & Cheung, Y. B. (2022). Inclusion of unexposed clusters improves the precision of fixed effects analysis of stepped‐wedge cluster randomized trials. Statistics in Medicine, 41(15), 2923-2938. [https://doi.org/10.1002/sim.9394]
+
+2. Arndtsen, C., Ballon, J., Blackshear, K., Corbett, C. B., Lee, K., Peyer, J., ... & Duncan, K. A. (2019). Atypical gene expression of neuroinflammatory and steroid related genes following injury in the photoperiodic Japanese quail. General and comparative endocrinology, 288, 113361-113361. [https://doi.org/10.1016/j.ygcen.2019.113361]
+
+<hr>
+## In Progress:
+1. Mobley, A, … , Lee, K. M., … Syndemic profiles of incarcerated men living with HIV in Malaysia transitioning back to the community: A Latent Class Analysis.
+
+2. Lee, K. M., Yang, G. M., & Cheung, Y. B. Inclusion of unexposed clusters improves the precision of fixed effects analysis of stepped‐wedge cluster randomized trials with binary and count outcomes.
+
+3. Lee, K. M. & Cheung, Y. B. Cluster Randomized Trial designs for modelling time-varying intervention effects
+
+4. Lee, K. M. & Cheung, Y. B. Partitioned analysis reduces bias in self-controlled case series with recurrent events and event dependence
+
+5. Lee, K. M. (2023) Boxing with George EP Box. Significance.

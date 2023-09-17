@@ -1,0 +1,28 @@
+---
+title: ""
+output: html_document
+---
+
+## Education:
+<strong>PhD candidate in Biostatistics</strong> (Duke-NUS Medical School, Singapore)<br/>
+Aug 2020 - Present<br/>
+<strong>BA in Neuroscience</strong> (Vassar College, Poughkeepsie, NY)<br/>
+Aug 2014 - May 2018
+
+<hr>
+## Research Topics:
+<ul>
+  <li>Cluster Randomized Trials</li>
+  <li>Stepped Wedge Cluster Randomized Trials</li>
+  <li>Self-Controlled Case Series</li>
+  <li>Fixed Effects models</li>
+  <li>Mixed Effects models</li>
+</ul>
+
+<hr>
+Download my CV <a href="files/cv/2023-9-10 CV-Stats-Draft-Digital.docx" download>here</a>.<br/>
+<ul>
+  <li><a href="https://scholar.google.com/citations?user=cJwQFLQAAAAJ&hl=en&oi=ao">Google Scholar</a></li>
+  <li><a href="https://orcid.org/0000-0002-0454-4537">ORCID</a></li>
+</ul>
+
