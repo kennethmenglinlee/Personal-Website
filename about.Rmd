@@ -20,7 +20,7 @@ Aug 2014 - May 2018
 </ul>
 
 <hr>
-Download my CV <a href="files/cv/2023-9-10 CV-Stats-Draft-Digital.docx" download>here</a>.<br/>
+Download my CV <a href="files/cv/Kenneth Lee CV.pdf" download>here</a>.<br/>
 <ul>
   <li><a href="https://scholar.google.com/citations?user=cJwQFLQAAAAJ&hl=en&oi=ao">Google Scholar</a></li>
   <li><a href="https://orcid.org/0000-0002-0454-4537">ORCID</a></li>
