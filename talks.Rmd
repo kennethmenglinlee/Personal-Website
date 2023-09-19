@@ -2,24 +2,33 @@
 title: ""
 output: html_document
 ---
+<style>
+li{
+  margin: 10px 0;
+}
+</style>
 
 ## Talks:
 ##### Speaker(s) are <u>underlined</u>
-1. <u>Lee, K. M.</u>, Cheung Y. B. (2023, September). Cutting the Gordian Knot: Partitioned Analysis of Self Controlled Case Series of non-rare recurrent events. Oral presentation at the Royal Statistical Society International Conference 2023, Harrogate, England. [<a href="files/talks/Wednesday-AM-Kenneth-Lee.pptx" download>Presentation</a>]
+<ol>
+<li><u>Lee, K. M.</u>, Cheung Y. B. (2023, September). Robust Monitoring of Vaccine and Drug Safety using the Self-Controlled Case Series. Poster presentation at the SingHealth Duke-NUS Scientific Conference 2023, Singapore. [<a href="files/talks/2023 SingHealth Duke NUS Congress/00050.pptx" download>Presentation</a>]</li>
 
-2. <u>Lee, K. M.</u> (2023, September). Boxing with George Box. Oral presentation at the Royal Statistical Society International Conference 2023, Harrogate, England. [<a href="files/talks/Wednesday-PM-Kenneth-Lee-Significance.pptx" download>Presentation</a>]
+<li><u>Lee, K. M.</u>, Cheung Y. B. (2023, September). Cutting the Gordian Knot: Partitioned Analysis of Self Controlled Case Series of non-rare recurrent events. Oral presentation at the Royal Statistical Society International Conference 2023, Harrogate, England. [<a href="files/talks/2023 RSS/Wednesday-AM-Kenneth-Lee.pptx" download>Presentation</a>]</li>
 
-3. <u>Lee, K. M.</u>, <u>Poh, Z. W.</u>, <u>Yeung K. F.</u> (2022, February). Monitoring of treatment response in metastatic colorectal cancer patients with cfDNA. Oral presentation at the Duke-NUS PhD Student Research Symposium, Duke-NUS, Singapore.
+<li><u>Lee, K. M.</u> (2023, September). Boxing with George Box. Oral presentation at the Royal Statistical Society International Conference 2023, Harrogate, England. [<a href="files/talks/2023 RSS/Wednesday-PM-Kenneth-Lee-Significance.pptx" download>Presentation</a>]</li>
 
-4. <u>Hiatt, K.</u>, <u>Hu, M.</u>, <u>Lee, K. M.</u>, <u>Tumasian III, R.</u>, <u>Vega, S.</u> (2018, July). Investigating Biomarkers of Kidney Function II. Oral presentation at the Summer Institute for Training in Biostatistics (SIBS), Emory University, Atlanta, GA.
+<li><u>Lee, K. M.</u>, <u>Poh, Z. W.</u>, <u>Yeung K. F.</u> (2022, February). Monitoring of treatment response in metastatic colorectal cancer patients with cfDNA. Oral presentation at the Duke-NUS PhD Student Research Symposium, Duke-NUS, Singapore.</li>
 
-5. <u>Anderson, A.</u>, <u>Lee, K. M.</u>, <u>Ling, S.</u>, <u>Polani, A.</u>, <u>Wang, A.</u> (2018, July). Investigating Biomarkers of Kidney Function. Oral presentation at the Summer Institute for Training in Biostatistics (SIBS), Emory University, Atlanta, GA.
+<li><u>Hiatt, K.</u>, <u>Hu, M.</u>, <u>Lee, K. M.</u>, <u>Tumasian III, R.</u>, <u>Vega, S.</u> (2018, July). Investigating Biomarkers of Kidney Function II. Oral presentation at the Summer Institute for Training in Biostatistics (SIBS), Emory University, Atlanta, GA.</li>
 
-6. <u>Holloway, J.</u>, <u>Lee, K. M.</u>, <u>Ling, S.</u>, <u>Struzeski, J.</u> (2018, June). Comparing Caregiver Ratings for Behavior Responses of Children with Sleep Apnea. Oral presentation at the Summer Institute for Training in Biostatistics (SIBS), Emory University, Atlanta, GA.
+<li><u>Anderson, A.</u>, <u>Lee, K. M.</u>, <u>Ling, S.</u>, <u>Polani, A.</u>, <u>Wang, A.</u> (2018, July). Investigating Biomarkers of Kidney Function. Oral presentation at the Summer Institute for Training in Biostatistics (SIBS), Emory University, Atlanta, GA.</li>
 
-7. <u>Lee, K. M.</u>, <u>Corbett, C.</u> (2017, November). Effect of Photoperiod and Brain Injury on Aromatase Expression in Japanese Quail. Poster presentation at the Society for Neuroscience (SFN) Undergraduate Research Poster Session, Washington D.C.
+<li><u>Holloway, J.</u>, <u>Lee, K. M.</u>, <u>Ling, S.</u>, <u>Struzeski, J.</u> (2018, June). Comparing Caregiver Ratings for Behavior Responses of Children with Sleep Apnea. Oral presentation at the Summer Institute for Training in Biostatistics (SIBS), Emory University, Atlanta, GA.</li>
 
-8. <u>Lee, K. M.</u>, <u>Corbett, C.</u> (2017, September). Comparative Analysis of Steroid Mediated Neuroprotection Across Vertebrates. Oral presentation at Undergraduate Research Summer Institute Symposium (URSI), Vassar College, Poughkeepsie, NY.
+<li><u>Lee, K. M.</u>, <u>Corbett, C.</u> (2017, November). Effect of Photoperiod and Brain Injury on Aromatase Expression in Japanese Quail. Poster presentation at the Society for Neuroscience (SFN) Undergraduate Research Poster Session, Washington D.C.</li>
 
-9. <u>Lee, K. M.</u> (2016, August). The Role of the P2Y12 Receptor in Microglial Development. Oral presentation at the Summer Undergraduate Research Program (SURP) in Neuroscience, Rutgers-Robert Wood Johnson Medical School, New-Brunswick, NJ.
+<li><u>Lee, K. M.</u>, <u>Corbett, C.</u> (2017, September). Comparative Analysis of Steroid Mediated Neuroprotection Across Vertebrates. Oral presentation at Undergraduate Research Summer Institute Symposium (URSI), Vassar College, Poughkeepsie, NY.</li>
+
+<li><u>Lee, K. M.</u> (2016, August). The Role of the P2Y12 Receptor in Microglial Development. Oral presentation at the Summer Undergraduate Research Program (SURP) in Neuroscience, Rutgers-Robert Wood Johnson Medical School, New-Brunswick, NJ.</li>
+</ol>
 

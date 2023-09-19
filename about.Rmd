@@ -4,9 +4,10 @@ output: html_document
 ---
 
 ## Education:
-<strong>PhD candidate in Biostatistics</strong> (Duke-NUS Medical School, Singapore)<br/>
-Aug 2020 - Present<br/>
-<strong>BA in Neuroscience</strong> (Vassar College, Poughkeepsie, NY)<br/>
+<h5><strong>PhD candidate in Biostatistics</strong> | Duke-NUS Medical School, Singapore</h5>
+Aug 2020 - Present
+
+<h5><strong>BA in Neuroscience</strong> | Vassar College, Poughkeepsie, NY</h5>
 Aug 2014 - May 2018
 
 <hr>
