@@ -6,8 +6,6 @@ output: html_document
 ## Talks:
 ##### Speaker(s) are <u>underlined</u>
 <ol>
-<li class="list"><u>Lee, K. M.</u>, Cheung Y. B. (2023, September). Robust Monitoring of Vaccine and Drug Safety using the Self-Controlled Case Series. Poster presentation at the SingHealth Duke-NUS Scientific Conference 2023, Singapore. [<a href="files/talks/2023 SingHealth Duke NUS Congress/00050.pptx" download>Presentation</a>]</li>
-
 <li class="list"><u>Lee, K. M.</u>, Cheung Y. B. (2023, September). Cutting the Gordian Knot: Partitioned Analysis of Self Controlled Case Series of non-rare recurrent events. Oral presentation at the Royal Statistical Society International Conference 2023, Harrogate, England. [<a href="files/talks/2023 RSS/Wednesday-AM-Kenneth-Lee.pptx" download>Presentation</a>]</li>
 
 <li class="list"><u>Lee, K. M.</u> (2023, September). Boxing with George Box. Oral presentation at the Royal Statistical Society International Conference 2023, Harrogate, England. [<a href="files/talks/2023 RSS/Wednesday-PM-Kenneth-Lee-Significance.pptx" download>Presentation</a>]</li>
@@ -20,11 +18,22 @@ output: html_document
 
 <li class="list"><u>Holloway, J.</u>, <u>Lee, K. M.</u>, <u>Ling, S.</u>, <u>Struzeski, J.</u> (2018, June). Comparing Caregiver Ratings for Behavior Responses of Children with Sleep Apnea. Oral presentation at the Summer Institute for Training in Biostatistics (SIBS), Emory University, Atlanta, GA.</li>
 
-<li class="list"><u>Lee, K. M.</u>, <u>Corbett, C.</u> (2017, November). Effect of Photoperiod and Brain Injury on Aromatase Expression in Japanese Quail. Poster presentation at the Society for Neuroscience (SFN) Undergraduate Research Poster Session, Washington D.C.</li>
-
 <li class="list"><u>Lee, K. M.</u>, <u>Corbett, C.</u> (2017, September). Comparative Analysis of Steroid Mediated Neuroprotection Across Vertebrates. Oral presentation at Undergraduate Research Summer Institute Symposium (URSI), Vassar College, Poughkeepsie, NY.</li>
 
 <li class="list"><u>Lee, K. M.</u> (2016, August). The Role of the P2Y12 Receptor in Microglial Development. Oral presentation at the Summer Undergraduate Research Program (SURP) in Neuroscience, Rutgers-Robert Wood Johnson Medical School, New-Brunswick, NJ.</li>
+</ol>
+
+## Poster Presentations:
+##### Speaker(s) are <u>underlined</u>
+<ol>
+
+<li class="list"><u>Lee, K. M.</u>, Cheung Y. B. (2023, October). Cluster Randomized Trial designs for modelling time-varying intervention effects. Poster presentation at the 15th Duke-NUS Early Career Scientists Association (DUNES) Scientific Symposium, Singapore. [<a href="files/talks/2023 TOI CRT Poster/Poster.pdf" download>Poster</a>]</li>
+
+<li class="list"><u>Lee, K. M.</u>, Cheung Y. B. (2023, October). Cluster Randomized Trial designs for modelling time-varying intervention effects. Poster presentation at the Duke-NUS PhD Student Research Symposium 2023, Singapore. [<a href="files/talks/2023 TOI CRT Poster/Poster.pdf" download>Poster</a>]</li>
+
+<li class="list"><u>Lee, K. M.</u>, Cheung Y. B. (2023, September). Robust Monitoring of Vaccine and Drug Safety using the Self-Controlled Case Series. Poster presentation at the SingHealth Duke-NUS Scientific Conference 2023, Singapore. [<a href="files/talks/2023 SingHealth Duke NUS Congress/00050.pptx" download>Poster</a>]</li>
+
+<li class="list"><u>Lee, K. M.</u>, <u>Corbett, C.</u> (2017, November). Effect of Photoperiod and Brain Injury on Aromatase Expression in Japanese Quail. Poster presentation at the Society for Neuroscience (SFN) Undergraduate Research Poster Session, Washington D.C.</li>
 </ol>
 
 <style>
