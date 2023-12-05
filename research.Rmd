@@ -15,7 +15,7 @@ output: html_document
 <hr>
 ## In Progress:
 <ol>
-<li class="list">Mobley, A, … , Lee, K. M., … Syndemic profiles of incarcerated men living with HIV in Malaysia transitioning back to the community: A Latent Class Analysis.</li>
+<li class="list">Lee, K. M. & Cheung, Y. B. The fixed effects model for robust analysis of stepped-wedge cluster randomized trials with a small number of clusters and continuous outcomes: a simulation study</li>
 
 <li class="list">Lee, K. M., Yang, G. M., & Cheung, Y. B. Inclusion of unexposed clusters improves the precision of fixed effects analysis of stepped‐wedge cluster randomized trials with binary and count outcomes.</li>
 
