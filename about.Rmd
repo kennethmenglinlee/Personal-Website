@@ -1,7 +1,14 @@
 ---
 title: "About Me"
+css: style.css
 output: html_document
 ---
+
+```{r setup, include=FALSE, echo=FALSE}
+CON <- file("style.css")
+writeLines('#header {display: none;}', CON)
+close(CON)
+```
 
 ## Education:
 <h5><strong>PhD candidate in Biostatistics</strong> | Duke-NUS Medical School, Singapore</h5>

@@ -1,7 +1,14 @@
 ---
 title: "My Presentations"
+css: style.css
 output: html_document
 ---
+
+```{r setup, include=FALSE, echo=FALSE}
+CON <- file("style.css")
+writeLines('#header {display: none;}', CON)
+close(CON)
+```
 
 ## Talks:
 ##### Speaker(s) are <u>underlined</u>
