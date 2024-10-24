@@ -1,7 +1,7 @@
 name: "KML-website"
 output_dir: "docs"
 navbar:
-  title: "Kenneth Lee"
+  title: "Kenneth Menglin Lee"
   left:
     - text: "Home"
       href: index.html

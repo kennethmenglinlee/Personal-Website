@@ -13,21 +13,17 @@ close(CON)
 ## Talks:
 ##### Speaker(s) are <u>underlined</u>
 <ol>
-<li class="list"><u>Lee, K. M.</u>, Cheung Y. B. (2023, September). Cutting the Gordian Knot: Partitioned Analysis of Self Controlled Case Series of non-rare recurrent events. Oral presentation at the Royal Statistical Society International Conference 2023, Harrogate, England. [<a href="files/talks/2023 RSS/Wednesday-AM-Kenneth-Lee.pptx" download>Presentation</a>]</li>
+<li class="list"><u>Lee, K. M.</u> (2024, June). Estimation and reduction of bias in self-controlled case series with non-rare event dependent outcomes and heterogeneous populations. Invited oral presentation at the Health Sciences Authority, Singapore.</li>
 
-<li class="list"><u>Lee, K. M.</u> (2023, September). Boxing with George Box. Oral presentation at the Royal Statistical Society International Conference 2023, Harrogate, England. [<a href="files/talks/2023 RSS/Wednesday-PM-Kenneth-Lee-Significance.pptx" download>Presentation</a>]</li>
+<li class="list"><u>Lee, K. M.</u> (2024, June). Modelling exposure time-varying treatment effects in cluster randomized trials. Invited oral presentation at the University of Birmingham, Birmingham, England.</li>
 
-<li class="list"><u>Lee, K. M.</u>, <u>Poh, Z. W.</u>, <u>Yeung K. F.</u> (2022, February). Monitoring of treatment response in metastatic colorectal cancer patients with cfDNA. Oral presentation at the Duke-NUS PhD Student Research Symposium, Duke-NUS, Singapore.</li>
+<li class="list"><u>Lee, K. M.</u> (2024, March). Cluster randomized trials for modelling time-varying treatment effects. Invited oral presentation at the Duke Global Health Institute, Durham, NC.</li>
 
-<li class="list"><u>Hiatt, K.</u>, <u>Hu, M.</u>, <u>Lee, K. M.</u>, <u>Tumasian III, R.</u>, <u>Vega, S.</u> (2018, July). Investigating Biomarkers of Kidney Function II. Oral presentation at the Summer Institute for Training in Biostatistics (SIBS), Emory University, Atlanta, GA.</li>
+<li class="list"><u>Lee, K. M.</u>, Cheung Y. B. (2023, September). Cutting the Gordian Knot: Partitioned Analysis of Self Controlled Case Series of non-rare recurrent events. Contributed oral presentation at the Royal Statistical Society International Conference 2023, Harrogate, England. [<a href="files/talks/2023 RSS/Wednesday-AM-Kenneth-Lee.pptx" download>Presentation</a>]</li>
 
-<li class="list"><u>Anderson, A.</u>, <u>Lee, K. M.</u>, <u>Ling, S.</u>, <u>Polani, A.</u>, <u>Wang, A.</u> (2018, July). Investigating Biomarkers of Kidney Function. Oral presentation at the Summer Institute for Training in Biostatistics (SIBS), Emory University, Atlanta, GA.</li>
+<li class="list"><u>Lee, K. M.</u> (2023, September). Boxing with George Box. Contributed oral presentation at the Royal Statistical Society International Conference 2023, Harrogate, England. [<a href="files/talks/2023 RSS/Wednesday-PM-Kenneth-Lee-Significance.pptx" download>Presentation</a>]</li>
 
-<li class="list"><u>Holloway, J.</u>, <u>Lee, K. M.</u>, <u>Ling, S.</u>, <u>Struzeski, J.</u> (2018, June). Comparing Caregiver Ratings for Behavior Responses of Children with Sleep Apnea. Oral presentation at the Summer Institute for Training in Biostatistics (SIBS), Emory University, Atlanta, GA.</li>
-
-<li class="list"><u>Lee, K. M.</u>, <u>Corbett, C.</u> (2017, September). Comparative Analysis of Steroid Mediated Neuroprotection Across Vertebrates. Oral presentation at Undergraduate Research Summer Institute Symposium (URSI), Vassar College, Poughkeepsie, NY.</li>
-
-<li class="list"><u>Lee, K. M.</u> (2016, August). The Role of the P2Y12 Receptor in Microglial Development. Oral presentation at the Summer Undergraduate Research Program (SURP) in Neuroscience, Rutgers-Robert Wood Johnson Medical School, New-Brunswick, NJ.</li>
+<li class="list"><u>Lee, K. M.</u>, <u>Poh, Z. W.</u>, <u>Yeung K. F.</u> (2022, February). Monitoring of treatment response in metastatic colorectal cancer patients with cfDNA. Contributed oral presentation at the Duke-NUS PhD Student Research Symposium, Duke-NUS, Singapore.</li>
 </ol>
 
 ## Poster Presentations:
@@ -39,8 +35,6 @@ close(CON)
 <li class="list"><u>Lee, K. M.</u>, Cheung Y. B. (2023, October). Cluster Randomized Trial designs for modelling time-varying intervention effects. Poster presentation at the Duke-NUS PhD Student Research Symposium 2023, Singapore. [<a href="files/talks/2023 TOI CRT Poster/Poster.pdf" download>Poster</a>]</li>
 
 <li class="list"><u>Lee, K. M.</u>, Cheung Y. B. (2023, September). Robust Monitoring of Vaccine and Drug Safety using the Self-Controlled Case Series. Poster presentation at the SingHealth Duke-NUS Scientific Conference 2023, Singapore. [<a href="files/talks/2023 SingHealth Duke NUS Congress/00050.pptx" download>Poster</a>]</li>
-
-<li class="list"><u>Lee, K. M.</u>, <u>Corbett, C.</u> (2017, November). Effect of Photoperiod and Brain Injury on Aromatase Expression in Japanese Quail. Poster presentation at the Society for Neuroscience (SFN) Undergraduate Research Poster Session, Washington D.C.</li>
 </ol>
 
 <style>

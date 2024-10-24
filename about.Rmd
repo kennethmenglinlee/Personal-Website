@@ -9,13 +9,29 @@ CON <- file("style.css")
 writeLines('#header {display: none;}', CON)
 close(CON)
 ```
-
 ## Education:
-<h5><strong>PhD candidate in Biostatistics</strong> | Duke-NUS Medical School, Singapore</h5>
-Aug 2020 - Present
+<h5><strong>PhD in Biostatistics</strong> | Duke-NUS Medical School</h5>
+August 2020 - August 2024 | Supervisor: Dr. Cheung Yin Bun
 
-<h5><strong>BA in Neuroscience</strong> | Vassar College, Poughkeepsie, NY</h5>
-Aug 2014 - May 2018
+<h5><strong>BA in Neuroscience</strong> | Vassar College</h5>
+August 2014 - May 2018
+
+<hr>
+## Experience:
+<h5><strong>Post-Doctoral Researcher in Biostatistics</strong> | University of Pennsylvania, DBEI</h5>
+September 2024 - Present | Supervisors: Dr. Michael Harhay, Dr. Katherine Courtright, Dr. Fan Li (Yale University)
+
+<h5><strong>Visting Researcher in Biostatistics</strong> | Duke University, DGHI</h5>
+March 2024 - April 2024 | Supervisors: Dr. Elizabeth Turner, Dr. Avi Kenny
+
+<h5><strong>Biostatistician (part-time)</strong> | Singapore Clinical Research Institute</h5>
+January 2022 - July 2022 | Supervisor: Dr. Mihir Gandhi
+
+<h5><strong>Bioinformatician (part-time)</strong> | Treat Therapeutics</h5>
+December 2021 - February 2023
+
+<h5><strong>Research Associate</strong> | NYU Langone Health, Neuroscience Institute</h5>
+July 2018 - July 2020 | Supervisor: Dr. James Salzer
 
 <hr>
 ## Research Topics:
@@ -25,6 +41,33 @@ Aug 2014 - May 2018
   <li>Self-Controlled Case Series</li>
   <li>Fixed Effects models</li>
   <li>Mixed Effects models</li>
+  <li>Causal Inference</li>
+</ul>
+
+<hr>
+## Teaching Experience:
+<ul>
+  <li>Core Instructor | University of Pennsylvania, Pragmatic Clinical Research Institute | November 2024 - Present</li>
+</ul>
+
+<hr>
+## Honors & Awards:
+<ul>
+  <li>FDA-OCE-ASA Oncology Educational Fellowship | October 2024</li>
+  <li>Duke University School of Medicine 2024 Pre-Doctoral Research Exchange Award | March 2024</li>
+  <li>(Finalist) Royal Statistical Society 2023 Statistical Excellence Award for Early-Career Writing | June 2023</li>
+  <li>(1st Place) Duke-NUS 2022 PhD Student Research Symposium | February 2023</li>
+  <li>Khoo Pre-Doctoral Fellowship | August 2020</li>
+
+</ul>
+
+<hr>
+## Refereeing:
+<ul>
+  <li>Statistics in Medicine (1)</li>
+  <li>International Journal of Epidemiology (1)</li>
+  <li>Clinical Trials (1)</li>
+  <li>BMC Medical Research Methodology (1)</li>
 </ul>
 
 <hr>

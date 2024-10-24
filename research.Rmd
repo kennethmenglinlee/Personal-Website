@@ -12,23 +12,32 @@ close(CON)
 
 ## Publications:
 <ol>
-<li class="list">Lee, K. M. & Cheung, Y. B. Cluster Randomized Trial designs for modelling time-varying intervention effects. [https://doi.org/10.1002/sim.9941]</li>
+<li class="list"><u>Lee, K. M.</u> & Cheung, Y. B. The fixed effects model for robust analysis of stepped-wedge cluster randomized trials with a small number of clusters and continuous outcomes: a simulation study. (Forthcoming, <i>Trials</i>)</li>
 
-<li class="list">Lee, K. M., Ma, X., Yang, G. M., & Cheung, Y. B. (2022). Inclusion of unexposed clusters improves the precision of fixed effects analysis of stepped‐wedge cluster randomized trials. Statistics in Medicine, 41(15), 2923-2938. [https://doi.org/10.1002/sim.9394]</li>
+<li class="list"><u>Lee, K. M.</u>, Yang, G. M., & Cheung, Y. B. Inclusion of unexposed clusters improves the precision of fixed effects analysis of stepped‐wedge cluster randomized trials with binary and count outcomes. (Forthcoming, <i>BMC Medical Research Methodology</i>)</li>
 
-<li class="list">Arndtsen, C., Ballon, J., Blackshear, K., Corbett, C. B., Lee, K., Peyer, J., ... & Duncan, K. A. (2019). Atypical gene expression of neuroinflammatory and steroid related genes following injury in the photoperiodic Japanese quail. General and comparative endocrinology, 288, 113361-113361. [https://doi.org/10.1016/j.ygcen.2019.113361]</li>
+<li class="list"><u>Lee, K. M.</u> (2024). The Expected Value of Tennis. (Forthcoming, <i>Significance</i>)</li>
+
+<li class="list"><u>Lee, K. M.</u> & Cheung, Y. B. (2024). Estimation and reduction of bias in self-controlled case series with non-rare event dependent outcomes and heterogeneous populations. <i>Statistics in Medicine</i>, 43(10), 1955-1972. [https://doi.org/10.1002/sim.10033]</li>
+
+<li class="list"><u>Lee, K. M.</u> (2024). Boxing with George EP Box. <i>Significance</i>. [https://significancemagazine.com/boxing-with-george-box/]</li>
+
+<li class="list"><u>Lee, K. M.</u> & Cheung, Y. B. Cluster Randomized Trial designs for modelling time-varying intervention effects. <i>Statistics in Medicine</i>, 43(1), 49-60.  [https://doi.org/10.1002/sim.9941]</li>
+
+<li class="list"><u>Lee, K. M.</u>, Ma, X., Yang, G. M., & Cheung, Y. B. (2022). Inclusion of unexposed clusters improves the precision of fixed effects analysis of stepped‐wedge cluster randomized trials. <i>Statistics in Medicine</i>, 41(15), 2923-2938. [https://doi.org/10.1002/sim.9394]</li>
+
+<li class="list">Arndtsen, C., Ballon, J., Blackshear, K., Corbett, C. B., <u>Lee, K.</u>, Peyer, J., ... & Duncan, K. A. (2019). Atypical gene expression of neuroinflammatory and steroid related genes following injury in the photoperiodic Japanese quail. <i>General and comparative endocrinology</i>, 288, 113361-113361. [https://doi.org/10.1016/j.ygcen.2019.113361]</li>
 </ol>
 
 <hr>
 ## In Progress:
 <ol>
-<li class="list">Lee, K. M. & Cheung, Y. B. The fixed effects model for robust analysis of stepped-wedge cluster randomized trials with a small number of clusters and continuous outcomes: a simulation study</li>
+<li class="list"><u>Lee, K. M.</u>, & Li, F. (2024). How should parallel cluster randomized trials with a baseline period be analyzed? A survey of estimands and common estimators. arXiv preprint arXiv:2406.02028. (under review) [https://doi.org/10.48550/arXiv.2406.02028]</li>
 
-<li class="list">Lee, K. M., Yang, G. M., & Cheung, Y. B. Inclusion of unexposed clusters improves the precision of fixed effects analysis of stepped‐wedge cluster randomized trials with binary and count outcomes.</li>
+<li class="list"><u>Lee, K. M.</u>, Turner, E. L., & Kenny, A. (2024). Analysis of Stepped-Wedge Cluster Randomized Trials when treatment effect varies by exposure time or calendar time. arXiv preprint arXiv:2409.14706. (under review) [https://doi.org/10.48550/arXiv.2409.14706]</li>
 
-<li class="list">Lee, K. M. & Cheung, Y. B. Partitioned analysis reduces bias in self-controlled case series with recurrent events and event dependence.</li>
+<li class="list">Mobley, A, … , <u>Lee, K. M.</u>, …, Altice, F. L. Syndemic profiles of incarcerated men living with HIV in Malaysia transitioning back to the community: A Latent Class Analysis. (under review)</li>
 
-<li class="list">Lee, K. M. Boxing with George EP Box. Significance.</li>
 </ol>
 
 <style>
