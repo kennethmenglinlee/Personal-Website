@@ -34,14 +34,13 @@ December 2021 - February 2023
 July 2018 - July 2020 | Supervisor: Dr. James Salzer
 
 <hr>
-## Research Topics:
+## Research Interests:
 <ul>
-  <li>Cluster Randomized Trials</li>
-  <li>Stepped Wedge Cluster Randomized Trials</li>
-  <li>Self-Controlled Case Series</li>
-  <li>Fixed Effects models</li>
-  <li>Mixed Effects models</li>
+  <li>Cluster Randomized Trials design & methodology</li>
+  <li>Self-Controlled Case Series design & methodoogy</li>
+  <li>Multi-level models</li>
   <li>Causal Inference</li>
+  <li>Analysis of complex endpoints in palliative care research </li>
 </ul>
 
 <hr>
@@ -64,10 +63,10 @@ July 2018 - July 2020 | Supervisor: Dr. James Salzer
 <hr>
 ## Refereeing:
 <ul>
-  <li>Statistics in Medicine (1)</li>
-  <li>International Journal of Epidemiology (1)</li>
-  <li>Clinical Trials (1)</li>
-  <li>BMC Medical Research Methodology (1)</li>
+  <li>Statistics in Medicine</li>
+  <li>International Journal of Epidemiology</li>
+  <li>Clinical Trials</li>
+  <li>BMC Medical Research Methodology</li>
 </ul>
 
 <hr>
