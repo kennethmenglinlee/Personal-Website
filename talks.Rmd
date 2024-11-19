@@ -13,6 +13,8 @@ close(CON)
 ## Talks:
 ##### Speaker(s) are <u>underlined</u>
 <ol>
+<li class="list"><u>Lee, K. M.</u> (2024, November). Parallel cluster randomized trials with a baseline period: Estimands, Estimators, and Informative Cluster Sizes. Submitted oral presentation at the 10th Annual Meeting on Current Developments in Cluster Randomised Trials & Stepped Wedge Designs, Birmingham, England.</li>
+
 <li class="list"><u>Lee, K. M.</u> (2024, June). Estimation and reduction of bias in self-controlled case series with non-rare event dependent outcomes and heterogeneous populations. Invited oral presentation at the Health Sciences Authority, Singapore.</li>
 
 <li class="list"><u>Lee, K. M.</u> (2024, June). Modelling exposure time-varying treatment effects in cluster randomized trials. Invited oral presentation at the University of Birmingham, Birmingham, England.</li>
