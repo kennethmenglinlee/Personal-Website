@@ -28,15 +28,13 @@ close(CON)
 </ol>
 
 <hr>
-## Submitted:
+## Forthcoming / Pre-prints:
 <ol>
 <li class="list"><u>Lee, K. M.</u>, & Li, F. How should parallel cluster randomized trials with a baseline period be analyzed? A survey of estimands and common estimators. arXiv preprint arXiv:2406.02028. (under review) [https://doi.org/10.48550/arXiv.2406.02028]</li>
 
 <li class="list"><u>Lee, K. M.</u>, Turner, E. L., & Kenny, A. Analysis of Stepped-Wedge Cluster Randomized Trials when treatment effect varies by exposure time or calendar time. arXiv preprint arXiv:2409.14706. (under review) [https://doi.org/10.48550/arXiv.2409.14706]</li>
 
-<li class="list"><u>Lee, K. M.</u> The Expected Value of Tennis. (under review)</li>
-
-<li class="list">Mobley, A, … , <u>Lee, K. M.</u>, …, Altice, F. L. Syndemic profiles of incarcerated men living with HIV in Malaysia transitioning back to the community: A Latent Class Analysis. (under review)</li>
+<li class="list"><u>Lee, K. M.</u> The Expected Value of Tennis. (forthcoming)</li>
 
 </ol>
 
