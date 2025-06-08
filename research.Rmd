@@ -10,31 +10,42 @@ writeLines('#header {display: none;}', CON)
 close(CON)
 ```
 
-## Publications:
+<h2><u>Publications:</u></h2>
+<h3>Statistical Methods:</h3>
 <ol>
-<li class="list"><u>Lee, K. M.</u> & Cheung, Y. B. (2024). The fixed-effects model for robust analysis of stepped-wedge cluster trials with a small number of clusters and continuous outcomes: a simulation study. <i>Trials</i>, 25(1), 1-18. [https://doi.org/10.1186/s13063-024-08572-1]</li>
+<li class="list"><b>Lee, K. M.</b>, & Li, F. (2024). How Should Parallel Cluster Randomized Trials With a Baseline Period be Analyzed? — A Survey of Estimands and Common Estimators. <i>Biometrical Journal</i>, 67(3), e70052. [https://doi.org/10.1002/bimj.70052]</li>
 
-<li class="list"><u>Lee, K. M.</u>, Yang, G. M., & Cheung, Y. B. (2024). Inclusion of unexposed clusters improves the precision of fixed effects analysis of stepped-wedge cluster randomized trials with binary and count outcomes. <i>BMC Medical Research Methodology</i>, 24(1), 254.</i>) [https://doi.org/10.1186/s12874-024-02379-z]</li>
+<li class="list"><b>Lee, K. M.</b> & Cheung, Y. B. (2024). The fixed-effects model for robust analysis of stepped-wedge cluster trials with a small number of clusters and continuous outcomes: a simulation study. <i>Trials</i>, 25(1), 1-18. [https://doi.org/10.1186/s13063-024-08572-1]</li>
 
-<li class="list"><u>Lee, K. M.</u> & Cheung, Y. B. (2024). Estimation and reduction of bias in self-controlled case series with non-rare event dependent outcomes and heterogeneous populations. <i>Statistics in Medicine</i>, 43(10), 1955-1972. [https://doi.org/10.1002/sim.10033]</li>
+<li class="list"><b>Lee, K. M.</b>, Yang, G. M., & Cheung, Y. B. (2024). Inclusion of unexposed clusters improves the precision of fixed effects analysis of stepped-wedge cluster randomized trials with binary and count outcomes. <i>BMC Medical Research Methodology</i>, 24(1), 254.</i>) [https://doi.org/10.1186/s12874-024-02379-z]</li>
 
-<li class="list"><u>Lee, K. M.</u> (2024). Boxing with George EP Box. <i>Significance</i>. [https://significancemagazine.com/boxing-with-george-box/]</li>
+<li class="list"><b>Lee, K. M.</b> & Cheung, Y. B. (2024). Estimation and reduction of bias in self-controlled case series with non-rare event dependent outcomes and heterogeneous populations. <i>Statistics in Medicine</i>, 43(10), 1955-1972. [https://doi.org/10.1002/sim.10033]</li>
 
-<li class="list"><u>Lee, K. M.</u> & Cheung, Y. B. (2024). Cluster Randomized Trial designs for modelling time-varying intervention effects. <i>Statistics in Medicine</i>, 43(1), 49-60.  [https://doi.org/10.1002/sim.9941]</li>
+<li class="list"><b>Lee, K. M.</b> & Cheung, Y. B. (2024). Cluster Randomized Trial designs for modelling time-varying intervention effects. <i>Statistics in Medicine</i>, 43(1), 49-60.  [https://doi.org/10.1002/sim.9941]</li>
 
-<li class="list"><u>Lee, K. M.</u>, Ma, X., Yang, G. M., & Cheung, Y. B. (2022). Inclusion of unexposed clusters improves the precision of fixed effects analysis of stepped‐wedge cluster randomized trials. <i>Statistics in Medicine</i>, 41(15), 2923-2938. [https://doi.org/10.1002/sim.9394]</li>
+<li class="list"><b>Lee, K. M.</b>, Ma, X., Yang, G. M., & Cheung, Y. B. (2022). Inclusion of unexposed clusters improves the precision of fixed effects analysis of stepped‐wedge cluster randomized trials. <i>Statistics in Medicine</i>, 41(15), 2923-2938. [https://doi.org/10.1002/sim.9394]</li>
 
-<li class="list">Arndtsen, C., Ballon, J., Blackshear, K., Corbett, C. B., <u>Lee, K.</u>, Peyer, J., ... & Duncan, K. A. (2019). Atypical gene expression of neuroinflammatory and steroid related genes following injury in the photoperiodic Japanese quail. <i>General and comparative endocrinology</i>, 288, 113361-113361. [https://doi.org/10.1016/j.ygcen.2019.113361]</li>
+<li class="list">Arndtsen, C., Ballon, J., Blackshear, K., Corbett, C. B., <b>Lee, K.</b>, Peyer, J., ... & Duncan, K. A. (2019). Atypical gene expression of neuroinflammatory and steroid related genes following injury in the photoperiodic Japanese quail. <i>General and comparative endocrinology</i>, 288, 113361-113361. [https://doi.org/10.1016/j.ygcen.2019.113361]</li>
+</ol>
+
+<h3>Collaborative:</h3>
+<ol>
+<li class="list">Courtright, K. R., …, <b>Lee, K. M.</b>, …, Halpern, S. D. Nudging clinicians to promote serious illness communication for critically ill patients: a pragmatic cluster randomized trial. <i>JAMA Internal Medicine</i>, 185(5), 510-520. [https://doi.org/10.1001/jamainternmed.2025.0090]</li>
+</ol>
+
+<h3>Other:</h3>
+<ol>
+<li class="list"><b>Lee, K. M.</b> (2025). Advantage Federer: The expected value of tennis. <i>Significance</i>, 22(2), 8-11 [https://doi.org/10.1093/jrssig/qmaf005]</li>
+
+<li class="list"><b>Lee, K. M.</b> (2024). Boxing with George EP Box. <i>Significance</i>. [https://significancemagazine.com/boxing-with-george-box/]</li>
 </ol>
 
 <hr>
-## Forthcoming / Pre-prints:
+<h2><u>Forthcoming / Pre-prints:</u></h2>
 <ol>
-<li class="list"><u>Lee, K. M.</u>, & Li, F. How should parallel cluster randomized trials with a baseline period be analyzed? A survey of estimands and common estimators. arXiv preprint arXiv:2406.02028. (under review) [https://doi.org/10.48550/arXiv.2406.02028]</li>
+<li class="list"><b>Lee, K. M.</b>, Turner, E. L., & Kenny, A. Analysis of Stepped-Wedge Cluster Randomized Trials when treatment effects vary by exposure time or calendar time. arXiv preprint arXiv:2409.14706. (under review) [https://doi.org/10.48550/arXiv.2409.14706]</li>
 
-<li class="list"><u>Lee, K. M.</u>, Turner, E. L., & Kenny, A. Analysis of Stepped-Wedge Cluster Randomized Trials when treatment effect varies by exposure time or calendar time. arXiv preprint arXiv:2409.14706. (under review) [https://doi.org/10.48550/arXiv.2409.14706]</li>
-
-<li class="list"><u>Lee, K. M.</u> The Expected Value of Tennis. (forthcoming)</li>
+<li class="list"><b>Lee, K. M.</b>, Forbes, A.B., Kasza, J., Copas, A., Kahan, B.C., Young, P.J., Harhay, M.O., Li, F. (2025) What is estimated in cluster randomized crossover trials with informative sizes? — A survey of estimands and common estimators. arXiv preprint arXiv:2505.00925. (under review) [https://doi.org/10.48550/arXiv.2505.00925]</li>
 
 </ol>
 

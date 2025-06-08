@@ -36,8 +36,8 @@ July 2018 - July 2020 | Supervisor: Dr. James Salzer
 <hr>
 ## Research Interests:
 <ul>
-  <li>Cluster Randomized Trials design & methodology</li>
-  <li>Self-Controlled Case Series design & methodoogy</li>
+  <li>Cluster Randomized Trials design & analyses</li>
+  <li>Self-Controlled Case Series design & analyses</li>
   <li>Multi-level models</li>
   <li>Causal Inference</li>
   <li>Analysis of complex endpoints in palliative care research </li>
@@ -47,6 +47,8 @@ July 2018 - July 2020 | Supervisor: Dr. James Salzer
 ## Teaching Experience:
 <ul>
   <li>Core Instructor | University of Pennsylvania, Pragmatic Clinical Research Institute | November 2024 - Present</li>
+
+  <li>Guest Lecturer (EPID 7020) | University of Pennsylvania | March 2025</li>
 </ul>
 
 <hr>
@@ -70,7 +72,7 @@ July 2018 - July 2020 | Supervisor: Dr. James Salzer
 </ul>
 
 <hr>
-Download my CV <a href="files/cv/Kenneth Lee CV.pdf" download>here</a>.<br/>
+Download my CV <a href="files/cv/Kenneth Lee CV 6_7_25.pdf" download>here</a>.<br/>
 <ul>
   <li><a href="https://scholar.google.com/citations?user=cJwQFLQAAAAJ&hl=en&oi=ao">Google Scholar</a></li>
   <li><a href="https://orcid.org/0000-0002-0454-4537">ORCID</a></li>

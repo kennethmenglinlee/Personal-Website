@@ -22,9 +22,9 @@ close(CON)
 
 <p style="text-align:center;"><img src="files/photos/Photo 2.jpg" style="width:20%"></p>
 
-I'm a Post-doctoral researcher in Biostatistics at the University of Pennsylvania (Department of Biostatistics, Epidemiology, & Informatics). I had previously completed my PhD in Biostatistics at Duke-NUS Medical School in Singapore.
+I'm a <b>post-doctoral researcher</b> in <b>Biostatistics</b> at the <b>University of Pennsylvania</b> (Department of Biostatistics, Epidemiology, & Informatics). I previously completed my PhD in Biostatistics at Duke-NUS Medical School in Singapore.
 
-I’m currently working on evaluating time-varying intervention effects in Cluster Randomized Trials, fixed effects models for the analysis of Stepped-Wedge Cluster Randomized Trials, and developing methods to control for bias in Self-Controlled Case Series.
+I’m currently working on evaluating time-varying intervention effects, informative sizes, and unmeasured confounding in different Cluster Randomized Trial designs. I've also previously developed methods to control for bias in Self-Controlled Case Series.
 
 <hr>
-Outside of work, I love boxing, tennis, and soccer. I also used to regularly <a href="https://youtu.be/efHFBJz7Ht8?si=A7eTIdBLq0xgrgoo&t=1563">taiko drum</a> and draw (during the pandemic, my drawings of my favorite fighters were published online in an <a href="https://www.onefc.com/th/news/%e0%b8%a8%e0%b8%b4%e0%b8%a5%e0%b8%9b%e0%b8%b4%e0%b8%99%e0%b8%a7%e0%b8%b2%e0%b8%94%e0%b8%a0%e0%b8%b2%e0%b8%9e%e0%b8%aa%e0%b8%a1%e0%b8%b1%e0%b8%84%e0%b8%a3%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%99%e0%b8%8a/">interview</a> with ONE FC!).
+Outside of work, I love <a href="https://significancemagazine.com/boxing-with-george-box/">boxing</a>, <a href="https://academic.oup.com/jrssig/article/22/2/8/7998830">tennis</a>, and soccer. I also used to regularly <a href="https://youtu.be/efHFBJz7Ht8?si=A7eTIdBLq0xgrgoo&t=1563">taiko drum</a>.
