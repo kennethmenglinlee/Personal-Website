@@ -27,4 +27,4 @@ I'm a <b>post-doctoral researcher</b> in <b>Biostatistics</b> at the <b>Universi
 I’m currently working on evaluating time-varying intervention effects, informative sizes, and unmeasured confounding in different Cluster Randomized Trial designs. I've also previously developed methods to control for bias in Self-Controlled Case Series.
 
 <hr>
-Outside of work, I love <a href="https://significancemagazine.com/boxing-with-george-box/">boxing</a>, <a href="https://academic.oup.com/jrssig/article/22/2/8/7998830">tennis</a>, and soccer. I also used to regularly <a href="https://youtu.be/efHFBJz7Ht8?si=A7eTIdBLq0xgrgoo&t=1563">taiko drum</a>.
+Outside of work, I love <a href="https://significancemagazine.com/boxing-with-george-box/">boxing</a>, <a href="https://academic.oup.com/jrssig/article/22/2/8/7998830">tennis</a>, and soccer. I also used to <a href="https://youtu.be/efHFBJz7Ht8?si=A7eTIdBLq0xgrgoo&t=1563">taiko drum</a>.
